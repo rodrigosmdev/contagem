@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(154, 78, 224);
+    font: bold 15pt arial;
+}
+
+header {
+    color: rgba(15, 39, 54, 0.582);
+    text-align: center;
+    padding: 12px;
+    font: bold;
+
+    
+}
+
+section {
+    background-color: thistle;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.363);
+}
+
+div#res{
+    bottom: 0%;
+    margin-top: 50px;
+    color: blue;
+}
+footer {
+    text-align: center;
+    color: aliceblue;
+                    
+}
